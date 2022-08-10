@@ -2,7 +2,7 @@
 
 CREATE TABLE IF NOT EXIST second_table
 INSERT INTO second_table
-(id = INT, name = VARCHAR(256),score = INT)
+(id INT, name VARCHAR(256),score INT)
 
 VALUES(1,'John',score = 10)
 VALUES(2,'Alex',3)
