@@ -1,3 +1,3 @@
 --prints the full description of a table in a database.
-FROM hbtn_0c_0
+-- shows description of first_name
 SHOW first_name;
